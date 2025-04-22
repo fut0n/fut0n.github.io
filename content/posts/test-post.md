@@ -28,6 +28,7 @@ Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sap
 ## Images
 
 ![Terminal Theme Preview](/img/terminal-theme.png)
+![test image](/images/test-post/1.png)
 
 ### Figure with a caption
 
